@@ -2,7 +2,7 @@
 
 ### Oie!!!
 
-Meu nome é Joselaine sou administradora, porém curto muito a área de tecnologia, onde resolvi fazer arriscar em algo novo e fazer alguns cursos para aprender. Entre eles estão a liguagem JavaScript e a liguagem Elixir.
+Meu nome é Joselaine sou administradora, porém curto muito a área de tecnologia, onde resolvi arriscar em algo novo e fazer alguns cursos para aprender. Entre eles estão a liguagem JavaScript e a liguagem Elixir.
 
 Estou em busca de oportunidade profissional para exercer e crescer nessa nova escolha, aceito conselhos.
 
